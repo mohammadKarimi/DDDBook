@@ -35,9 +35,11 @@
             "id": "feff593262cc0890",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png"
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png"
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md"
               }
             }
           }
@@ -169,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7b243f240e9396",
+  "active": "feff593262cc0890",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD.md",
     "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png",
     "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121203455.png",
@@ -180,7 +183,6 @@
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain.md",
     "content/part 1 - Strategic Design/chapter 1/1.3.1 Core Subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain.md",
-    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD.md",
     "content/Introduction/_index.md",
     "README.md",
     "content/Part 1 - Strategic Design/00.md",
