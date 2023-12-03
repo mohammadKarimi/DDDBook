@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf1dfa70512106fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy of software design/complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+                "file": "philosophy of software design/complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+                "file": "philosophy of software design/complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md"
+                "file": "philosophy of software design/complexity.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e959e68f607da22",
+  "active": "cf1dfa70512106fc",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+    "philosophy of software design/complexity.md",
+    "philosophy of software design",
     "Pasted image 20231130222927.png",
     "Pasted image 20231125192303.png",
     "Pasted image 20231125151933.png",
@@ -155,7 +171,6 @@
     "content/part 1 - Strategic Design/_index.md",
     "muologo.jpg.md",
     "Untitled.canvas",
-    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD.md",
     "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png",
     "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121203455.png",
