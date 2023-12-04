@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1dfa70512106fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "philosophy of software design/complexity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf1dfa70512106fc",
+  "active": "4e959e68f607da22",
   "lastOpenFiles": [
-    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+    "Pasted image 20231204094636.png",
     "philosophy of software design/complexity.md",
+    "Pasted image 20231204094628.png",
+    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
     "philosophy of software design",
     "Pasted image 20231130222927.png",
     "Pasted image 20231125192303.png",
