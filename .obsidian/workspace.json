@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bab5a9e862d2c40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy of software design/کدی که داره کار میکنه، دیگه کافی نیست..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy of software design/complexity.md",
+                "file": "philosophy of software design/کدی که داره کار میکنه، دیگه کافی نیست..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy of software design/complexity.md",
+                "file": "philosophy of software design/کدی که داره کار میکنه، دیگه کافی نیست..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy of software design/complexity.md"
+                "file": "philosophy of software design/کدی که داره کار میکنه، دیگه کافی نیست..md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e959e68f607da22",
+  "active": "bab5a9e862d2c40d",
   "lastOpenFiles": [
-    "Pasted image 20231204094636.png",
     "philosophy of software design/complexity.md",
+    "philosophy of software design/کدی که داره کار میکنه، دیگه کافی نیست..md",
+    "Pasted image 20231204094636.png",
     "Pasted image 20231204094628.png",
     "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
     "philosophy of software design",
