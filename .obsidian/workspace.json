@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md"
               }
             }
           }
@@ -146,27 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7b243f240e9396",
+  "active": "bab5a9e862d2c40d",
   "lastOpenFiles": [
-    "Philosophy Of Software Design/chapter 2/Working code isn't enough..md",
-    "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
-    "Philosophy Of Software Design/chapter 1/The Nature Of Complexity.mp3",
-    "Philosophy Of Software Design/chapter 2",
-    "Philosophy Of Software Design/New folder",
-    "Philosophy Of Software Design/chapter 1/01_The nature of Complexity.pdf",
-    "Philosophy Of Software Design/chapter 1/The nature of Complexity.mp3",
-    "Philosophy Of Software Design/chapter 1/The nature of Complexity.md",
-    "Philosophy Of Software Design/chapter 1",
-    "Philosophy Of Software Design/01_The nature of Complexity.pdf",
-    "philosophy of software design/Working code isn't enough..md",
-    "Philosophy Of Software Design/Working code isn't enough..md",
-    "Philosophy Of Software Design/The nature of Complexity.mp3",
-    "Philosophy Of Software Design/The nature of Complexity.md",
-    "Philosophy Of Software Design",
-    "philosophy of software design/The nature of Complexity.md",
-    "philosophy of software design/The nature of Complexity.mp3",
+    "Pasted image 20231204094628.png",
+    "Pasted image 20231130222927.png",
+    "Pasted image 20231125192303.png",
+    "Pasted image 20231125151933.png",
     "DDD/part 1 - Strategic Design/chapter 1/Pasted image 20231122221715.png",
     "DDD/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png",
+    "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
     "DDD/part 1 - Strategic Design/chapter 1/1.3.3 Supporting Subdomain.md",
     "DDD/part 1 - Strategic Design/chapter 1/1.3.2 Generic subdomains.md",
     "DDD/part 1 - Strategic Design/chapter 1/1.3.1 Core Subdomains.md",
@@ -174,25 +162,38 @@
     "DDD/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain.md",
     "DDD/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD.md",
     "DDD/part 1 - Strategic Design/_index.md",
+    "DDD/part 1 - Strategic Design/chapter 1",
     "DDD/Introduction/_index.md",
-    "philosophy of software design/complexity.md",
-    "Pasted image 20231204094636.png",
-    "Pasted image 20231204094628.png",
-    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
-    "Pasted image 20231130222927.png",
-    "Pasted image 20231125192303.png",
-    "Pasted image 20231125151933.png",
-    "content/part 1 - Strategic Design/chapter 1/Pasted image 20231122221715.png",
-    "content/part 1 - Strategic Design/_index.md",
-    "muologo.jpg.md",
-    "Untitled.canvas",
-    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD.md",
-    "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121204324.png",
-    "content/part 1 - Strategic Design/chapter 1/Pasted image 20231121203455.png",
-    "content/part 1 - Strategic Design/chapter 1/1.3.3 Supporting Subdomain.md",
-    "content/part 1 - Strategic Design/chapter 1/1.3.2 Generic subdomains.md",
-    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain.md",
-    "content/part 1 - Strategic Design/chapter 1/1.3.1 Core Subdomains.md",
-    "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain.md"
+    "DDD/part 1 - Strategic Design",
+    "DDD/Introduction",
+    "DDD",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.1 Business Problem/Business Problems.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.1 Business Problem",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/Pasted image 20231121204324.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3 What is a Subdomain.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/Pasted image 20231130222927.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/Pasted image 20231125192303.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/Pasted image 20231125151933.png",
+    "Philosophy Of Software Design/chapter 2/Working code isn't enough..md",
+    "Philosophy Of Software Design/chapter 1/The nature of Complexity.md",
+    "philosophy of software design/Working code isn't enough..md",
+    "Philosophy Of Software Design/Working code isn't enough..md",
+    "Philosophy Of Software Design/The nature of Complexity.md",
+    "philosophy of software design/The nature of Complexity.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/Pasted image 20231122221715.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomain.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic subdomains.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/_index.md",
+    "Untitled.canvas"
   ]
 }
