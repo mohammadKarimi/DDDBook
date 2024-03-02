@@ -33,3 +33,10 @@ latestcheck.json
 app/desktop/book/
 .obsidian/
 .hugo_build.lock
+
+
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+.obsidian/workspace.json
