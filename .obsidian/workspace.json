@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Gigmaster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Gigmaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Gigmaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Gigmaster.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "bab5a9e862d2c40d",
   "lastOpenFiles": [
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Domain Analysis Examples.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Domain Analysis Examples.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Gigmaster.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.6 Who Are the Domain Experts/Who Are the Domain Experts.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Untitled",
