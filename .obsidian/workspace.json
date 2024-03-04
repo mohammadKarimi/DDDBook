@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5df60a27ada905c",
+        "id": "75ef848797fc5080",
         "type": "tabs",
         "children": [
           {
-            "id": "bab5a9e862d2c40d",
+            "id": "ef4d45c088fde470",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab5a9e862d2c40d",
+  "active": "ef4d45c088fde470",
   "lastOpenFiles": [
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/3. BusVNext.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
