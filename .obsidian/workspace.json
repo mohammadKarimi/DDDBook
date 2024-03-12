@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md"
               }
             }
           }
@@ -146,24 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4d45c088fde470",
+  "active": "af7b243f240e9396",
   "lastOpenFiles": [
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1 1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1 1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business",
