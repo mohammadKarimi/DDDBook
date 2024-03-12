@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md"
               }
             }
           }
@@ -148,35 +148,37 @@
   },
   "active": "ef4d45c088fde470",
   "lastOpenFiles": [
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.3 Communication/Figure 2-1.png",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.3 Communication/Figure 2-1 1.png",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.3 Communication/Communication.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.3 Communication",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.1 Business Problem/Business Problems.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.1 Business Problem",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/What Is a Ubiquitous Language",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1 1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1 1.png",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business",
     "photo-1587985546831-03af965ed4cb.jpg",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1 1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/1.3 Communication/Figure 2-2.png",
     "Pasted image 20240304154838.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.7 Conclusion/Conclusion.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.7 Conclusion",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/3. BusVNext.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/1. Domain Analysis Examples.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.6 Who Are the Domain Experts/Who Are the Domain Experts.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/Untitled",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples",
     "Untitled-2023-12-25-2125.png",
     "Learning  Domain-Driven  Design/Introduction/_index.md",
     "Pasted image 20231204094628.png",
@@ -190,7 +192,6 @@
     "DDD/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD.md",
     "DDD/part 1 - Strategic Design/_index.md",
     "DDD/Introduction/_index.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3 What is a Subdomain.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
     "Untitled.canvas"
