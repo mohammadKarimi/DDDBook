@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort/Continuous Effort.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort/Continuous Effort.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort/Continuous Effort.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort/Continuous Effort.md"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/_index.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "ef4d45c088fde470",
   "lastOpenFiles": [
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.2 Consistency/Consistency.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/_index.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort/Continuous Effort.md",
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain/Modeling the Business Domain.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.2 Consistency/Consistency.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/2.6.1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/_index.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery/Knowledge Discovery.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.6 Who Are the Domain Experts/Who Are the Domain Experts.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/1. Domain Analysis Examples.md",
@@ -193,7 +194,6 @@
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.5 Who Are the Domain Experts/Who Are the Domain Experts.md",
     "Untitled-2023-12-25-2125.png",
     "Pasted image 20231204094628.png",
-    "DDD/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains.md",
     "Untitled.canvas"
   ]
 }
