@@ -31,3 +31,4 @@ Scenario: Notify the agent about a new support case
     Then the agent receives a notification about the new ticket
 ```
 
+مدیریت یک مجموعه آزمون مبتنی بر Gherkin در برخی موارد ممکن است چالش هایی داشته باشد، به ویژه در مراحل ابتدایی یک پروژه. با این حال، بدون شک ارزش بسیاری برای حوزه‌های کسب و کار پیچیده بوجود می آورد.
