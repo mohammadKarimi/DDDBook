@@ -16,6 +16,7 @@ _book
 *.pdf
 build/*
 .trash/
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/app.json
 .obsidian/appearance.json
