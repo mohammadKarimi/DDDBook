@@ -18,3 +18,16 @@ Scenario: Adding a single item to the shopping cart
     And the shopping cart should display the added product
 ```
 
+ و  یا تست زیر را در نظر بگیرید:
+ 
+ ```gherkin
+Feature: Notify the agent about a new support case
+
+Scenario: Notify the agent about a new support case
+    Given Vincent Jules submits a new support case saying:
+    "I need help configuring AWS Infinidash "
+    
+    When the ticket is assigned to Mr. Wolf
+    Then the agent receives a notification about the new ticket
+```
+
