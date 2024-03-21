@@ -6,6 +6,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+## مشارکت در بهبود کتاب
+
+
+اگر قصد دارید برای بهبود یا اشتراک گذاری تجربه خود در کتاب مشارکت کنید کافیه [توضیحات و راهنمای مشارکت](https://github.com/mohammadKarimi/DDDBoom/blob/main/COUNTRIBUTING.md) را حتما مطالعه کنید.
+
+
 مشارکت کنندگان
 
 
