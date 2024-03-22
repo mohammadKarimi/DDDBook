@@ -23,9 +23,11 @@
             "id": "15e7fabfbac154e7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.8 Tools/Tools.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.8 Tools/Tools.md",
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.8 Tools/Tools.md"
+                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md"
               }
             }
           }
@@ -157,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7b243f240e9396",
+  "active": "15e7fabfbac154e7",
   "lastOpenFiles": [
+    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
     "README.md",
     "Contribution.md",
     "COUNTRIBUTING.md",
@@ -192,7 +195,6 @@
     "Learning  Domain-Driven  Design/Introduction/_index.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
