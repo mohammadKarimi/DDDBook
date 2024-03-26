@@ -1,6 +1,6 @@
 baseURL = 'https://book.ddd.ir'
 languageCode = 'fa-IR'
-title = 'ddd farsi'
+title = 'کتاب آزاد - طراحی دامنه محور'
 theme = 'hugo-book-style'
 
 enableRobotsTXT = true
