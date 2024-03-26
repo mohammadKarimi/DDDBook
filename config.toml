@@ -1,0 +1,99 @@
+baseURL = 'https://book.ddd.ir'
+languageCode = 'fa-IR'
+title = 'ddd farsi'
+theme = 'hugo-book'
+
+enableRobotsTXT = true
+
+
+defaultContentLanguage = 'fa'
+
+rssLimit = 1000
+copyright = "2023 GoFarsi All rights reserved"
+
+[author]
+	name = "Mohammad Karimi"
+	email = "mha.karimi@gmail.com"
+
+[outputFormats]
+    [outputFormats.RSS]
+        mediaType = "application/rss+xml"
+        baseName = "feed"
+
+[languages]
+[languages.fa]
+languagedirection = 'rtl'
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[markup.tableOfContents]
+startLevel = 1
+
+[params]
+# (Optional, default light) Sets color theme: light, dark or auto.
+# Theme 'auto' switches between dark and light modes based on browser/os preferences
+BookTheme = 'light'
+
+# (Optional, default true) Controls table of contents visibility on right side of pages.
+# Start and end levels can be controlled with markup.tableOfContents setting.
+# You can also specify this parameter per page in front matter.
+BookToC = true
+
+# (Optional, default docs) Specify root page to render child pages as menu.
+# Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
+# For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
+BookSection= '*'
+
+# (Optional, default none) Set the path to a logo for the book. If the logo is
+# /static/logo.png then the path would be 'logo.png'
+BookLogo = 'favicon.png'
+
+# Enable 'Edit this page' links for 'doc' page type.
+# Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+# Path must point to the site directory.
+BookEditPath = 'edit/main'
+
+# Set source repository location.
+# Used for 'Last Modified' and 'Edit this page' links.
+BookRepo = 'https://github.com/MohammadKarimi/dddBook'
+
+# Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
+# type.
+# Required if 'BookRepo' param is set.
+# Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
+# Github uses 'commit', Bitbucket uses 'commits'
+BookCommitPath = 'commit'
+
+# (Optional, default true) Enables search function with flexsearch,
+# Index is built on fly, therefore it might slowdown your website.
+# Configuration for indexing can be adjusted in i18n folder per language.
+BookSearch = true
+
+# (Optional, default true) Enables comments template on pages
+# By default partals/docs/comments.html includes Disqus template
+# See https://gohugo.io/content-management/comments/#configure-disqus
+# Can be overwritten by same param in page frontmatter
+BookComments = true
+
+# /!\ This is an experimental feature, might be removed or changed at any time
+# (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
+BookServiceWorker = true
+
+graphcommentId = "book"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = true
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    noHl = true
+    style = 'dracula'
+    tabWidth = 4
