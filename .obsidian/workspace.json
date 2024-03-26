@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/_index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "Fundamental-of-DDD.md",
     "content/part 1 - Strategic Design/chapter 1/_index.md",
+    "Fundamental-of-DDD.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "1.1-fundamental-of-ddd/1.1-fundamental-of-ddd.md",
     "1.1-fundamental-of-ddd",
