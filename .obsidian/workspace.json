@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.8 Tools/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15e7fabfbac154e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md"
+                "file": "content/part 1 - Strategic Design/chapter 1/_index.md"
               }
             }
           }
@@ -159,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e7fabfbac154e7",
+  "active": "ef4d45c088fde470",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
+    "content/part 1 - Strategic Design/chapter 1/_index.md",
+    "1.1.md",
+    "structure-of-go-code.md",
+    "content/part 1 - Strategic Design/_index.md",
+    "content/Introduction/_index.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion",
@@ -190,12 +183,6 @@
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomain.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic subdomains.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3 What is a Subdomain.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
-    "Learning  Domain-Driven  Design/Introduction/_index.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
