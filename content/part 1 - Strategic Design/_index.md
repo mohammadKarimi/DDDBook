@@ -1,5 +1,5 @@
 ---
-title: طراحی استراتژی
+title: پارت اول - طراحی استراتژی
 weight: 1000
 bookCollapseSection: true
 type: chapter
