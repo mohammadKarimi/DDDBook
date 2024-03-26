@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Introduction/_index.md",
+                "file": "content/preface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Introduction/_index.md",
+                "file": "content/preface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Introduction/_index.md",
+                "file": "content/preface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Introduction/_index.md"
+                "file": "content/preface.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4d45c088fde470",
+  "active": "af7b243f240e9396",
   "lastOpenFiles": [
     "content/part 1 - Strategic Design/_index.md",
     "content/part 1 - Strategic Design/chapter 1/_index.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "1.1.md",
     "structure-of-go-code.md",
-    "content/Introduction/_index.md",
+    "content/preface.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion",
