@@ -1,7 +1,7 @@
 baseURL = 'https://book.ddd.ir'
 languageCode = 'fa-IR'
 title = 'ddd farsi'
-theme = 'hugo-book'
+theme = 'hugo-book-style'
 
 enableRobotsTXT = true
 
