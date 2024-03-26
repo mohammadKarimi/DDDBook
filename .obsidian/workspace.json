@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
+                "file": "content/preface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
+                "file": "content/preface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md",
+                "file": "content/preface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/_index.md"
+                "file": "content/preface.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "content/part 1 - Strategic Design/chapter 2/_index.md",
+    "content/sponsors.md",
+    "content/preface.md",
     "content/part 1 - Strategic Design/_index.md",
     "content/part 1 - Strategic Design/chapter 1/_index.md",
+    "content/part 1 - Strategic Design/chapter 2/_index.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "Fundamental-of-DDD.md",
     "1.1-fundamental-of-ddd/1.1-fundamental-of-ddd.md",
@@ -158,7 +160,6 @@
     "[1.1-fundamental-of-ddd/1.1-fundamental-of-ddd/].md",
     "[1.1-fundamental-of-ddd/1.1-fundamental-of-ddd",
     "[1.1-fundamental-of-ddd",
-    "content/preface.md",
     "1.1.md",
     "structure-of-go-code.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
@@ -184,7 +185,6 @@
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/_index.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery/Knowledge Discovery.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 1/1.6 Who Are the Domain Experts/Who Are the Domain Experts.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1 1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.3 Communication/Figure 2-1.png",

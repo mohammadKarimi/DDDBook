@@ -1,6 +1,6 @@
 ---
 title: پیشگفتار
-weight: 1000
+weight: 3
 bookCollapseSection: true
 type: chapter
 ---
