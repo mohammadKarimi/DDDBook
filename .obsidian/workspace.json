@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
-                "mode": "source",
-                "source": false
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
+    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "content/preface.md",
     "content/sponsors.md",
