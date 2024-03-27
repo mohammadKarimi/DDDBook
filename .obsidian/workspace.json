@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/preface.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/preface.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/preface.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/preface.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "content/sponsors.md",
     "content/preface.md",
+    "content/sponsors.md",
     "content/part 1 - Strategic Design/_index.md",
     "content/part 1 - Strategic Design/chapter 1/_index.md",
     "content/part 1 - Strategic Design/chapter 2/_index.md",
