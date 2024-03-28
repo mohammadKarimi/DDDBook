@@ -1,4 +1,5 @@
 # کتاب آزاد Domain Driven Design
+این کتاب برای کسانی که تازه میخواهند DDD را یادبگیرند یا اینکه افراد با تجربه در حوزه ی DDD هستند مناسب می باشد.
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -8,21 +9,25 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-## مشارکت در بهبود کتاب
-
+# مشارکت در بهبود کتاب
 
 اگر قصد دارید برای بهبود یا اشتراک گذاری تجربه خود در کتاب مشارکت کنید کافیه [توضیحات و راهنمای مشارکت](https://github.com/mohammadKarimi/DDDBook/blob/main/COUNTRIBUTING.md) را حتما مطالعه کنید.
 
+# مشارکت کنندگان
 
-## مشارکت کنندگان
-
-
+<p align="end">
   <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/mohammadKarimi/DDDbook?logoColor=white">
+</p>
 
 <a href="https://github.com/mohammadKarimi"><img src="https://avatars.githubusercontent.com/u/5300102?v=4" alt="Mohammad Karimi" title="Mohammad Karimi" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
 <a href="https://github.com/AliMohammadnezhad"><img src="https://avatars.githubusercontent.com/u/62431237?v=4" alt="Ali Mohammadnezhad" title="Ali Mohammadnezhad" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
 <a href="https://github.com/liaghatmand"><img src="https://avatars.githubusercontent.com/u/88610558?v=4" alt="Zahra Liaghatmand" title="Zahra Liaghatmand" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
 
+## مجوز پروژه و سایر مجوزات
+
+- مجوز کتاب DDD از نوع[ Creative Commons Zero v1.0 Universal](https://github.com/GoFarsi/book/blob/main/LICENSE) می باشد.
+- فونت وزیر مجوز OFL
+- فونت Jetbrains mono با مجوز OFL
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
