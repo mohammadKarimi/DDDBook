@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
-                "mode": "preview",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md"
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
+    "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
     "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
+    "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "content/preface.md",
     "content/sponsors.md",
     "content/part 1 - Strategic Design/_index.md",
@@ -181,7 +182,6 @@
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.7 Continuous Effort",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain/Modeling the Business Domain.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/2.6.1.png",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model",
