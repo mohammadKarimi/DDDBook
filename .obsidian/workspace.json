@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md"
+                "file": "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomain.md",
+    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
+    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic subdomains.md",
+    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3 What is a Subdomain.md",
     "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
@@ -158,10 +162,6 @@
     "content/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/3. BusVNext.md",
     "content/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md",
     "content/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/1. Domain Analysis Examples.md",
-    "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
-    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomain.md",
-    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains.md",
-    "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic subdomains.md",
     "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "content/part 1 - Strategic Design/_index.md",
