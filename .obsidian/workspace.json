@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
-                "mode": "source",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.2 Consistency/Consistency.md",
+    "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
+    "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
+    "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
     "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
     "content/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery/Knowledge Discovery.md",
     "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
@@ -171,12 +175,8 @@
     "Fundamental-of-DDD.md",
     "1.1-fundamental-of-ddd/1.1-fundamental-of-ddd.md",
     "1.1-fundamental-of-ddd",
-    "[1.1-fundamental-of-ddd/1.1-fundamental-of-ddd/].md",
     "[1.1-fundamental-of-ddd/1.1-fundamental-of-ddd",
     "[1.1-fundamental-of-ddd",
-    "1.1.md",
-    "structure-of-go-code.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.8 Tools",
