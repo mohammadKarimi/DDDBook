@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md"
+                "file": "content/part 1 - Strategic Design/chapter 1/1.2 What is Business Domain/1.2 What is Business Domain.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "content/preface.md",
     "content/sponsors.md",
-    "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
     "content/part 1 - Strategic Design/chapter 1/_index.md",
     "content/part 1 - Strategic Design/chapter 1/1.6 Who Are the Domain Experts/Who Are the Domain Experts.md",
     "content/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/3. BusVNext.md",
