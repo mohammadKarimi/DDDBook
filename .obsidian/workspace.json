@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
-                "mode": "preview",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain/Modeling the Business Domain.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain/Modeling the Business Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain/Modeling the Business Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.3  Modeling the Business Domain/Modeling the Business Domain.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.2 Consistency/Consistency.md",
+    "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md",
+    "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
+    "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/_index.md",
     "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
+    "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.2 Consistency/Consistency.md",
     "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5.1 Scenarios/Scenarios.md",
     "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
     "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
@@ -171,9 +174,6 @@
     "content/preface.md",
     "content/sponsors.md",
     "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
-    "content/part 1 - Strategic Design/_index.md",
-    "Fundamental-of-DDD.md",
-    "1.1-fundamental-of-ddd/1.1-fundamental-of-ddd.md",
     "1.1-fundamental-of-ddd",
     "[1.1-fundamental-of-ddd/1.1-fundamental-of-ddd",
     "[1.1-fundamental-of-ddd",
