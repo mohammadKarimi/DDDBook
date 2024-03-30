@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
     "content/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery/Knowledge Discovery.md",
     "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
     "content/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/2. Gigmaster.md",
@@ -176,7 +177,6 @@
     "1.1.md",
     "structure-of-go-code.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
-    "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.10 Conclusion",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.9 Challenges",
     "Learning  Domain-Driven  Design/part 1 - Strategic Design/chapter 2/2.8 Tools",
