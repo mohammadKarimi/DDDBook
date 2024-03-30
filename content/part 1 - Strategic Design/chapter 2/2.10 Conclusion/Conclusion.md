@@ -1,6 +1,6 @@
 ---
 title: نتیجه گیری
-weight: 1011
+weight: 212
 type: docs
 ---
 

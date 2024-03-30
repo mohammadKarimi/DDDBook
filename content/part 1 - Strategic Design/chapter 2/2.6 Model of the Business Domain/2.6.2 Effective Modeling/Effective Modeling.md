@@ -1,6 +1,6 @@
 ---
 title: 2.6.2 یک مدل موثر
-weight: 204
+weight: 207
 type: docs
 ---
 

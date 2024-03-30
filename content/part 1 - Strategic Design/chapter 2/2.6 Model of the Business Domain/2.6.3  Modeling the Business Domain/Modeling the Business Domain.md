@@ -1,6 +1,6 @@
 ---
 title: 2.6.3 مدلینگ در دامنه کسب و کار
-weight: 204
+weight: 208
 type: docs
 ---
 
