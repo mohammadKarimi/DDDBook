@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/_index.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/_index.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/_index.md",
+                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/_index.md"
+                "file": "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md"
               }
             }
           }
@@ -148,10 +148,9 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 3/_index.md",
     "content/part 1 - Strategic Design/_index.md",
-    "content/part 1 - Strategic Design/chapter 3/_index.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
-    "content/part 1 - Strategic Design/chapter 3/_index.md",
     "content/part 1 - Strategic Design/chapter 2/_index.md",
     "content/part 1 - Strategic Design/chapter 3/Inconsistent Models",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3 What is a Subdomain.md",
