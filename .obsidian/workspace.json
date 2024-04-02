@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b76b0b63fa95c384",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b76b0b63fa95c384",
+  "active": "d15e1bdd51457826",
   "lastOpenFiles": [
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomains/1.3.3 Supporting Subdomain.md",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic Subdomains/1.3.2 Generic subdomains.md",
