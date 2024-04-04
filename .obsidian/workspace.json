@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md"
+                "file": "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.2 Effective Modeling/Effective Modeling.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d15e1bdd51457826",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/2.6.1 What Is a Model/What Is a Model.md",
+    "content/_index.md",
     "content/part 1 - Strategic Design/chapter 2/2.6 Model of the Business Domain/_index.md",
     "content/part 1 - Strategic Design/chapter 2/2.5 Language of the Business/2.5 Language of Business.md",
     "content/part 1 - Strategic Design/chapter 2/2.4 What Is a Ubiquitous Language/What Is a Ubiquitous Language.md",
