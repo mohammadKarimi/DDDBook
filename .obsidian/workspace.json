@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "2ccb43511fc75ac7",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 2/_index.md",
+    "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
     "COUNTRIBUTING.md",
     "content/_index.md",
     "content/sponsors.md",
-    "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
     "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/3-2.png",
     "README.md",
     "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/3-1.png",
@@ -169,7 +170,6 @@
     "content/part 1 - Strategic Design/chapter 2/2.3 Communication/Communication.md",
     "content/part 1 - Strategic Design/chapter 2/2.2 Knowledge Discovery/Knowledge Discovery.md",
     "content/part 1 - Strategic Design/chapter 2/2.1 Business Problem/Business Problems.md",
-    "content/part 1 - Strategic Design/chapter 2/_index.md",
     "content/part 1 - Strategic Design/chapter 1/1.5 Domain Analysis Examples/1. Domain Analysis Examples.md",
     "content/part 1 - Strategic Design/chapter 1/1.4 Comparing Subdomains/1.4 Comparing Subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomains/1.3.3 Supporting Subdomain.md",
