@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
+                "file": "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/Inconsistent Models.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
+                "file": "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/Inconsistent Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
+                "file": "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/Inconsistent Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md"
+                "file": "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/Inconsistent Models.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "2ccb43511fc75ac7",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 3/3.2 What Is a Bounded Context",
     "content/part 1 - Strategic Design/chapter 2/_index.md",
-    "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/Inconsistent Models.md",
+    "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/Inconsistent Models.md",
     "COUNTRIBUTING.md",
     "content/_index.md",
     "content/sponsors.md",
-    "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/3-2.png",
+    "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/3-2.png",
     "README.md",
-    "content/part 1 - Strategic Design/chapter 3/Inconsistent Models/3-1.png",
+    "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/3-1.png",
     "content/part 1 - Strategic Design/chapter 3/_index.md",
     "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "content/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
@@ -175,8 +176,7 @@
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomains/1.3.3 Supporting Subdomain.md",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic Subdomains/1.3.2 Generic subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains/1.3.1 Core Subdomains.md",
-    "content/preface.md",
-    "content/part 1 - Strategic Design/chapter 3/Inconsistent Models",
+    "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.3 Supporting Subdomains",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.2 Generic Subdomains",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains",
