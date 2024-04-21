@@ -24,10 +24,7 @@
 <a href="https://github.com/AliMohammadnezhad"><img src="https://avatars.githubusercontent.com/u/62431237?v=4" alt="Ali Mohammadnezhad" title="Ali Mohammadnezhad" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
 <a href="https://github.com/liaghatmand"><img src="https://avatars.githubusercontent.com/u/88610558?v=4" alt="Zahra Liaghatmand" title="Zahra Liaghatmand" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
 <a href="https://github.com/mahmoodqanbary"><img src="https://avatars.githubusercontent.com/u/81526030?v=4" alt="Mahmood Qanbary" title="Mahmood Qanbary" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
-
-
-
-
+<a href="https://github.com/iliya-fatahi"><img src="https://avatars.githubusercontent.com/u/66668148?v=4" alt="Iliya Fatahi" title="Iliya Fatahi" with="45" style="width:45px;max-width:45px;height:45px" height="45"></a>
 
 
 ## مجوز پروژه و سایر مجوزات
