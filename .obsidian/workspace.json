@@ -11,9 +11,11 @@
             "id": "2ccb43511fc75ac7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3-5.png"
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3-5.png",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3-5.png",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3-5.png"
+                "file": "content/_index.md"
               }
             }
           }
@@ -144,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7b243f240e9396",
+  "active": "2ccb43511fc75ac7",
   "lastOpenFiles": [
-    "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3.5 Scope of a Bounded Context.md",
-    "content/part 1 - Strategic Design/chapter 3/3.2 What Is a Bounded Context/What Is a Bounded Context.md",
-    "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3-5.png",
-    "content/part 1 - Strategic Design/chapter 3/3.3 Model Boundaries/Model Boundaries.md",
+    "content/preface.md",
     "README.md",
+    "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3.5 Scope of a Bounded Context.md",
+    "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3-5.png",
+    "content/part 1 - Strategic Design/chapter 3/3.2 What Is a Bounded Context/What Is a Bounded Context.md",
+    "content/part 1 - Strategic Design/chapter 3/3.3 Model Boundaries/Model Boundaries.md",
     "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context",
     "content/part 1 - Strategic Design/chapter 1/1.3 What is a Subdomain/1.3.1 Core Subdomains/1.3.1 Core Subdomains.md",
     "content/part 1 - Strategic Design/chapter 1/1.1 Fundamental of DDD/1.1 Fundamental of DDD.md",
