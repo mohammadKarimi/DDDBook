@@ -2,7 +2,7 @@
 title: "مرزبندی مدل"
 weight: 3003
 type: docs
-bookCollapseSection: true
+bookCollapseSection: false
 ---
 
 در حال بروز رسانی
