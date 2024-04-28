@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/3.6 Bounded Contexts Versus Subdomains.md",
+                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/3.6 Bounded Contexts Versus Subdomains.md",
+                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/3.6 Bounded Contexts Versus Subdomains.md",
+                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/3.6 Bounded Contexts Versus Subdomains.md"
+                "file": "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/_index.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "2ccb43511fc75ac7",
   "lastOpenFiles": [
+    "content/part 1 - Strategic Design/chapter 3/_index.md",
+    "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/_index.md",
     "content/part 1 - Strategic Design/chapter 3/3.5 Scope of a Bounded Context/3.5 Scope of a Bounded Context.md",
-    "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains/3.6 Bounded Contexts Versus Subdomains.md",
     "content/part 1 - Strategic Design/chapter 3/3.3 Model Boundaries/Model Boundaries.md",
     "content/part 1 - Strategic Design/chapter 3/3.6 Bounded Contexts Versus Subdomains",
     "content/part 1 - Strategic Design/chapter 3/3.2 What Is a Bounded Context/What Is a Bounded Context.md",
@@ -169,7 +170,6 @@
     "content/sponsors.md",
     "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/3-2.png",
     "content/part 1 - Strategic Design/chapter 3/3.1 Inconsistent Models/3-1.png",
-    "content/part 1 - Strategic Design/chapter 3/_index.md",
     "content/part 1 - Strategic Design/chapter 2/2.10 Conclusion/Conclusion.md",
     "content/part 1 - Strategic Design/chapter 2/2.9 Challenges/Challenges.md",
     "content/part 1 - Strategic Design/chapter 2/2.8 Tools/Tools.md",
